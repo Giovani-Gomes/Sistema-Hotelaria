@@ -10,5 +10,4 @@ Listagem: Exibe listas de suítes, reservas e hóspedes para fácil visualizaç�
 ##  Tecnologias
 - Java 8 ou superior
 - Operação totalmente em memória, sem necessidade de banco de dados externo.
-## Contribuição
-Sinta-se à vontade para contribuir! Basta criar um fork deste repositório, realizar as modificações desejadas e enviar um pull request.
+
